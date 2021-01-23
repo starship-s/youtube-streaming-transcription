@@ -1,0 +1,7 @@
+requests
+asyncio
+selenium
+google-cloud-speech==1.3.2
+six==1.15.0
+pyaudio
+python-dotenv
